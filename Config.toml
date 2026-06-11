@@ -1,0 +1,6 @@
+jeu-de-songo/
+├── app.py
+├── requirements.txt
+├── .streamlit/
+│   └── config.toml   ← renommer et déplacer ici
+└── README.md
